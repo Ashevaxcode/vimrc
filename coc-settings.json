@@ -1,0 +1,16 @@
+{
+  "snippets.ultisnips.pythonPrompt": false,
+  "coc.preferences.formatOnSaveFiletypes": [
+    "css",
+    "markdown",
+    "html",
+    "js",
+    "jsx",
+    "ts",
+    "tsx",
+    "vimrc",
+    "vim",
+    "json",
+    "python"
+  ]
+}
