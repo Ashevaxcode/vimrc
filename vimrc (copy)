@@ -499,7 +499,12 @@ let g:UltiSnipsEditSplit="vertical"
 let g:python3_host_prog = "/usr/bin/python3"
 "  }}}
 
-" Move Line and char ------------------------------------------ {{{                 
+" Move Line and char ------------------------------------------ {{{
+" normal mode 'ctrl k / j' move up & down
+" normal mode 'ctrl l / h' move char left & right
+" visual mode 'shift k / j' move up & down
+" visual mode 'shift l / h' move char left & righ
+
   let g:move_key_modifier = 'C'
   let g:move_key_modifier_visualmode = 'S'
 "}}}
